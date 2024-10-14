@@ -1,2 +1,2 @@
 This is lab 6 in NET2008. 
-
+This are some new changes to this text file.
